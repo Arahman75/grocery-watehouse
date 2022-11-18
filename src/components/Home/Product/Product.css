@@ -1,0 +1,10 @@
+.product-details{
+    border: 2px solid red;
+    text-align: center;
+}
+.product-details img{
+    width: 100%;
+}
+.item-info{
+    padding: 20px;
+}

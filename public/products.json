@@ -1,0 +1,14 @@
+[
+    {"id":"1", "name":"Potato", "img":"https://i.ibb.co/SQqmrh3/product5.jpg", "quantity":"0", "price":"200", "description":"Potato is the best food in our country."},
+
+    {"id":"2", "name":"Onion", "img":"https://i.ibb.co/kHVYGxL/product6.jpg", "quantity":"0", "price":"300", "description":"Onion is the best food in our country."},
+
+    {"id":"3", "name":"Garlic", "img":"https://i.ibb.co/G2sDrnC/product4.jpg", "quantity":"0", "price":"400", "description":"Garlic is the best food in our country."},
+
+    {"id":"4", "name":"Lentil", "img":"https://i.ibb.co/CPF3ZJx/product2.jpg", "quantity":"0", "price":"450", "description":"Lentil is the best food in our country."},
+
+    {"id":"5", "name":"Sugar", "img":"https://i.ibb.co/kH818Q5/product3.jpg", "quantity":"0", "price":"150", "description":"Sugar is the best food in our country."},
+
+    {"id":"6", "name":"Rice", "img":"https://i.ibb.co/jzvbcJw/product1.jpg", "quantity":"0", "price":"100", "description":"Rice is the best food in our country."}
+   
+]

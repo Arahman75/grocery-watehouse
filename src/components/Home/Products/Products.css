@@ -1,0 +1,8 @@
+.all-product{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+   grid-gap: 10px;
+}
+.product-title{
+    color: rgb(248, 14, 159);
+}
