@@ -1,5 +1,5 @@
 .product-details{
-    border: 2px solid red;
+    /* border: 2px solid red; */
     text-align: center;
 }
 .product-details img{
@@ -7,4 +7,12 @@
 }
 .item-info{
     padding: 20px;
+}
+.item-info button{
+    border: none;
+    border-radius: 60px;
+    padding: 5px 10px;
+    background: rgb(239, 7, 111);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
 }
