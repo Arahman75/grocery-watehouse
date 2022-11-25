@@ -1,0 +1,9 @@
+.login-form{
+    width: 600px;
+    margin: 30px auto;
+}
+.login-title{
+    align-items: center;
+    color: rgb(80, 112, 255);
+    font-size: 30px;
+}
