@@ -1,0 +1,11 @@
+.special-title{
+    text-align: center;
+    color: crimson;
+    font-weight: 700;
+    font-size: 30px;
+}
+.special-products{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}

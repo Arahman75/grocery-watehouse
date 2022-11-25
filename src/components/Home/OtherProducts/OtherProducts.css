@@ -1,0 +1,11 @@
+.other-title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: crimson;
+}
+.other-product{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
